@@ -145,7 +145,7 @@ const AboutUs = () => {
                 <div className="max-w-7xl mx-auto">
                     <div className="flex items-center justify-center gap-3 mb-12">
                         <Workflow className="w-8 h-8 text-orange-500" />
-                        <h2 className="text-3xl font-bold text-orange-400">How It Works</h2>
+                        <h2 className="text-3xl font-bold text-orange-400">How It works</h2>
                     </div>
 
                     <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
