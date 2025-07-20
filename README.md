@@ -1,6 +1,7 @@
+
 # 🍽️ ExtraBite: Save Food, Feed Lives
 
-[Live Site](https://extrabite.vercel.app) • [Swagger Docs](https://extrabite-backend-2.onrender.com/swagger-ui) • [API Docs (Postman)](https://documenter.getpostman.com/view/30078893/2sA35KXuta) • [GitHub Repo](https://github.com/AlokMaurya0/FoodDonationPlatform)
+[Live Site](https://extrabite.vercel.app) • [Swagger Docs](https://extrabite-backend-2.onrender.com/swagger-ui) • [API Docs (Postman)](https://documenter.getpostman.com/view/30078893/2sA35KXuta) • [Frontend Repo](https://github.com/Akhilesh10gupta/Extrabite) • [Backend Repo](https://github.com/alokmaurya22/extrabite-backend-2)
 
 **ExtraBite** is a full-stack web platform that connects food donors with receivers (NGOs or individuals) to reduce food wastage and hunger. Whether you're a household, restaurant, or organization, ExtraBite makes it easy to donate leftover food — and even easier for those in need to find it, request it, and collect it.
 
@@ -33,8 +34,8 @@ We built separate **frontend** and **backend** stacks, connected via secure **RE
 ### 1. Clone the Repository
 
 ```bash
-git clone <repo-url>
-cd Extrabite-frontend
+git clone https://github.com/Akhilesh10gupta/Extrabite.git
+cd Extrabite
 ```
 
 ### 2. Install Dependencies
@@ -208,24 +209,14 @@ For licensing or partnership, reach out below.
 
 ## 👨‍💻 Developer Info
 
-- 📧 Email: [er.alokmaurya22@gmail.com](mailto:er.alokmaurya22@gmail.com)
-- 🌐 Website: [https://alokdata.netlify.app](https://alokdata.netlify.app)
-- 💼 LinkedIn: [https://linkedin.com/in/alok22](https://linkedin.com/in/alok22)
-- 💻 GitHub Frontend: [https://github.com/alokmaurya22](https://github.com/alokmaurya22/extrabite-frontend)
-- 💻 GitHub Backend: [https://github.com/alokmaurya22](https://github.com/alokmaurya22/extrabite-backend-2)
+- 👤 Name: Akhilesh Gupta
+- 📧 Email: [akhileshgupta.dev@gmail.com](mailto:akhileshgupta.dev@gmail.com)
+- 💼 LinkedIn: [https://linkedin.com/in/akhilesh10gupta](https://linkedin.com/in/akhilesh10gupta)
+- 💻 GitHub Frontend: [https://github.com/Akhilesh10gupta/Extrabite](https://github.com/Akhilesh10gupta/Extrabite)
+- 💻 GitHub Backend: [https://github.com/alokmaurya22/extrabite-backend-2](https://github.com/alokmaurya22/extrabite-backend-2)
 
 ---
 
 ## 💚 Join ExtraBite — Empower Change, Transform Lives!
 
 Helping one person is enough to make it meaningful.
-
-```
-
----
-
-### ✅ How to use:
-1. Create a file called `README.md` in the root of your GitHub repo.
-2. Paste the above content into it.
-3. Commit and push — that’s it!
-```
